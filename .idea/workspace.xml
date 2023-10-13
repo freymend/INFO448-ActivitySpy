@@ -9,7 +9,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e80fc160-2db7-4874-b569-0cafd4c4c0b1" name="Changes" comment="Add logging to activity life cycle" />
+    <list default="true" id="e80fc160-2db7-4874-b569-0cafd4c4c0b1" name="Changes" comment="add logging screenshot">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -138,13 +141,29 @@
       <option name="project" value="LOCAL" />
       <updated>1697167803486</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add unversioned files">
+      <created>1697167873744</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697167873744</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add logging screenshot">
+      <created>1697168010906</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1697168010906</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create project" />
     <MESSAGE value="change text of android app" />
     <MESSAGE value="Add logging to activity life cycle" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add logging to activity life cycle" />
+    <MESSAGE value="add unversioned files" />
+    <MESSAGE value="add logging screenshot" />
+    <option name="LAST_COMMIT_MESSAGE" value="add logging screenshot" />
   </component>
 </project>
